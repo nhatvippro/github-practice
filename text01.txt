@@ -1,3 +1,5 @@
 hello
 phan anh nhat
-
+phan anh nhat edit
+phan anh nhat update
+phan anh nhat delete
